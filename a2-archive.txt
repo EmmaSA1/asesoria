@@ -1,3 +1,8 @@
 Archivo para la actividad 2- Emma
 Parrafo numero dos
 Parafo numero tres
+
+parrafo  uno de user2
+parrafo dos de user2
+parrafo tres de user2
+parrafo uno de user3
